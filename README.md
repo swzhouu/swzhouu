@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swzhouu&show_icons=true&theme=radical" alt="swzhouu" /></p>
 <p align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=swzhouu&layout=compact&theme=radical" alt="swzhouu"/></p>
 <p align="center">
-![](./meme.jpg)
+<img src="./meme.jpg" />
 </p>
 
 <!--
